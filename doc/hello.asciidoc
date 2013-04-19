@@ -1,6 +1,7 @@
-
 ToDoList Dokumentation
 ======================
+:Author Initials: AG
+:toc:
 
 
 Das ist ein Test fuer eine asciidoc Dokumentation
@@ -8,3 +9,7 @@ Das ist ein Test fuer eine asciidoc Dokumentation
 Einfuehrung
 -----------
 Das ist das erste Testkapitel
+
+Kapitel 2
+---------
+Das ist das zweite Kapitel

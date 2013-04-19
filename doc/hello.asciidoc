@@ -12,4 +12,6 @@ Kapitel 2
 Das ist das zweite Kapitel
 
 Klassendiagramm
----------------
+~~~~~~~~~~~~~~~
+.Klassendiagramm block image
+image::images/Klassendiagramm.png[Klassendiagramm image]
